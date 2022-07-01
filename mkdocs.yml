@@ -1,0 +1,21 @@
+site_name: 硅星法律库
+theme:
+    name: material
+    icon:
+      logo: octicons/law-24
+    palette:
+      - media: "(prefers-color-scheme: light)"
+        scheme: default
+        primary: white
+        accent: red
+        toggle:
+          icon: material/brightness-7
+          name: Switch to dark mode
+      - media: "(prefers-color-scheme: dark)"
+        scheme: slate
+        primary: black
+        accent: yellow
+        toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
+          
