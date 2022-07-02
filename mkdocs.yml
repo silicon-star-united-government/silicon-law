@@ -23,4 +23,9 @@ theme:
           name: Switch to light mode
     font:
       text: Noto Serif SC
+      code: Noto Sans Mono
     language: zh
+    markdown_extensions:
+      - pymdownx.highlight:
+        anchor_linenums: true
+      - pymdownx.superfences 
