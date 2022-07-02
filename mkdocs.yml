@@ -1,21 +1,26 @@
 site_name: 硅星法律库
+repo_url: https://github.com/silicon-based-bio-history/silicon-law
+repo_name: silicon-law
 theme:
     name: material
     icon:
       logo: octicons/law-24
+      repo: octicons/git-merge-24
     palette:
       - media: "(prefers-color-scheme: light)"
         scheme: default
         primary: white
         accent: red
         toggle:
-          icon: material/brightness-7
+          icon: material/weather-sunny
           name: Switch to dark mode
       - media: "(prefers-color-scheme: dark)"
         scheme: slate
         primary: black
         accent: yellow
         toggle:
-          icon: material/brightness-4
+          icon: material/weather-night
           name: Switch to light mode
-          
+    font:
+      text: Noto Serif SC
+    language: zh
