@@ -1,4 +1,4 @@
-# silicon-law
+# silicon-law(文件已全部废止 非法且无效)
 
 [在线预览](https://law.siliconbio.top/)
 
