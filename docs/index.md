@@ -1,6 +1,6 @@
 # silicon-law
 
-[在线预览](https://law.siliconbio.top/)
+[在线预览](https://laws.siliconbio.top/)
 
 这里是硅星的法律文献库！
 
